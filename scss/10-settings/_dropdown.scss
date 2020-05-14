@@ -1,0 +1,18 @@
+$dropdown--menu-padding-x: spacing(16);
+$dropdown--menu-padding-y: spacing(8);
+$dropdown--menu-background-color: white;
+$dropdown--menu-border-radius: 3px;
+$dropdown--menu-border-color: greyscale(85);
+$dropdown--menu-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+$dropdown--menu-width: 180px;
+$dropdown--menu-arrow-width: 16px;
+$dropdown--menu-arrow-height: 8px;
+$dropdown--menu-z-index: 100; // TODO: z-index mixin and sass list
+
+$dropdown--button-caret-color: currentColor;
+
+$dropdown--link-padding: spacing(4) $dropdown--menu-padding-x;
+$dropdown--link-background-color: transparent;
+$dropdown--link-background-color-hover: color('action-light');
+$dropdown--link-color: color('action-base');
+$dropdown--link-color-hover: white;

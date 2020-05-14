@@ -1,0 +1,7 @@
+node_modules/
+/target/
+/.target/
+.idea
+/test-report.xml
+/coverage/
+/.npmrc
